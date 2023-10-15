@@ -1,0 +1,10 @@
+br\com\yuritodo\todolist\errors\ExceptionHandlerController.class
+br\com\yuritodo\todolist\user\UserModel.class
+br\com\yuritodo\todolist\filter\FilterTaskAuth.class
+br\com\yuritodo\todolist\user\UserController.class
+br\com\yuritodo\todolist\task\TaskModel.class
+br\com\yuritodo\todolist\user\iUserRepository.class
+br\com\yuritodo\todolist\utils\Utils.class
+br\com\yuritodo\todolist\task\TaskController.class
+br\com\yuritodo\todolist\task\ITaskRepository.class
+br\com\yuritodo\todolist\TodolistApplication.class
